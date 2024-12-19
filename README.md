@@ -1,2 +1,2 @@
-# hello-world
-This my first repository.
+# About Me
+My name is Ajie.
